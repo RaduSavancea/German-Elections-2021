@@ -1,0 +1,326 @@
+﻿# (c) Der Bundeswahlleiter, Wiesbaden 2020;;;;;
+# Datenlizenz Deutschland – Namensnennung – Version 2.0 (https://www.govdata.de/dl-de/by-2-0);;;;;
+# ;;;;;
+# Stand: 25.06.2020;;;;;
+# ;;;;;
+# Wahlkreisnummern und -namen bei der Wahl zum 20. Deutschen Bundestag;;;;;
+# ;;;;;
+Gebietsart;Gebietsnummer;Gebietsname/GebietText;Gebietsname_Abk;UegGebietsart;UegGebietsnummer
+BUND;99;Bundesgebiet;Bund;;
+LAND;1;Schleswig-Holstein;SH;BUND;99
+LAND;2;Hamburg;HH;BUND;99
+LAND;3;Niedersachsen;NI;BUND;99
+LAND;4;Bremen;HB;BUND;99
+LAND;5;Nordrhein-Westfalen;NW;BUND;99
+LAND;6;Hessen;HE;BUND;99
+LAND;7;Rheinland-Pfalz;RP;BUND;99
+LAND;8;Baden-Württemberg;BW;BUND;99
+LAND;9;Bayern;BY;BUND;99
+LAND;10;Saarland;SL;BUND;99
+LAND;11;Berlin;BE;BUND;99
+LAND;12;Brandenburg;BB;BUND;99
+LAND;13;Mecklenburg-Vorpommern;MV;BUND;99
+LAND;14;Sachsen;SN;BUND;99
+LAND;15;Sachsen-Anhalt;ST;BUND;99
+LAND;16;Thüringen;TH;BUND;99
+WAHLKREIS;1;Flensburg – Schleswig;;LAND;1
+WAHLKREIS;2;Nordfriesland – Dithmarschen Nord;;LAND;1
+WAHLKREIS;3;Steinburg – Dithmarschen Süd;;LAND;1
+WAHLKREIS;4;Rendsburg-Eckernförde;;LAND;1
+WAHLKREIS;5;Kiel;;LAND;1
+WAHLKREIS;6;Plön – Neumünster;;LAND;1
+WAHLKREIS;7;Pinneberg;;LAND;1
+WAHLKREIS;8;Segeberg – Stormarn-Mitte;;LAND;1
+WAHLKREIS;9;Ostholstein – Stormarn-Nord;;LAND;1
+WAHLKREIS;10;Herzogtum Lauenburg – Stormarn-Süd;;LAND;1
+WAHLKREIS;11;Lübeck;;LAND;1
+WAHLKREIS;12;Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I;;LAND;13
+WAHLKREIS;13;Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I;;LAND;13
+WAHLKREIS;14;Rostock – Landkreis Rostock II;;LAND;13
+WAHLKREIS;15;Vorpommern-Rügen – Vorpommern-Greifswald I;;LAND;13
+WAHLKREIS;16;Mecklenburgische Seenplatte I – Vorpommern-Greifswald II;;LAND;13
+WAHLKREIS;17;Mecklenburgische Seenplatte II – Landkreis Rostock III;;LAND;13
+WAHLKREIS;18;Hamburg-Mitte;;LAND;2
+WAHLKREIS;19;Hamburg-Altona;;LAND;2
+WAHLKREIS;20;Hamburg-Eimsbüttel;;LAND;2
+WAHLKREIS;21;Hamburg-Nord;;LAND;2
+WAHLKREIS;22;Hamburg-Wandsbek;;LAND;2
+WAHLKREIS;23;Hamburg-Bergedorf – Harburg;;LAND;2
+WAHLKREIS;24;Aurich – Emden;;LAND;3
+WAHLKREIS;25;Unterems;;LAND;3
+WAHLKREIS;26;Friesland – Wilhelmshaven – Wittmund;;LAND;3
+WAHLKREIS;27;Oldenburg – Ammerland;;LAND;3
+WAHLKREIS;28;Delmenhorst – Wesermarsch – Oldenburg-Land;;LAND;3
+WAHLKREIS;29;Cuxhaven – Stade II;;LAND;3
+WAHLKREIS;30;Stade I – Rotenburg II;;LAND;3
+WAHLKREIS;31;Mittelems;;LAND;3
+WAHLKREIS;32;Cloppenburg – Vechta;;LAND;3
+WAHLKREIS;33;Diepholz – Nienburg I;;LAND;3
+WAHLKREIS;34;Osterholz – Verden;;LAND;3
+WAHLKREIS;35;Rotenburg I – Heidekreis;;LAND;3
+WAHLKREIS;36;Harburg;;LAND;3
+WAHLKREIS;37;Lüchow-Dannenberg – Lüneburg;;LAND;3
+WAHLKREIS;38;Osnabrück-Land;;LAND;3
+WAHLKREIS;39;Stadt Osnabrück;;LAND;3
+WAHLKREIS;40;Nienburg II – Schaumburg;;LAND;3
+WAHLKREIS;41;Stadt Hannover I;;LAND;3
+WAHLKREIS;42;Stadt Hannover II;;LAND;3
+WAHLKREIS;43;Hannover-Land I;;LAND;3
+WAHLKREIS;44;Celle – Uelzen;;LAND;3
+WAHLKREIS;45;Gifhorn – Peine;;LAND;3
+WAHLKREIS;46;Hameln-Pyrmont – Holzminden;;LAND;3
+WAHLKREIS;47;Hannover-Land II;;LAND;3
+WAHLKREIS;48;Hildesheim;;LAND;3
+WAHLKREIS;49;Salzgitter – Wolfenbüttel;;LAND;3
+WAHLKREIS;50;Braunschweig;;LAND;3
+WAHLKREIS;51;Helmstedt – Wolfsburg;;LAND;3
+WAHLKREIS;52;Goslar – Northeim – Osterode;;LAND;3
+WAHLKREIS;53;Göttingen;;LAND;3
+WAHLKREIS;54;Bremen I;;LAND;4
+WAHLKREIS;55;Bremen II – Bremerhaven;;LAND;4
+WAHLKREIS;56;Prignitz – Ostprignitz-Ruppin – Havelland I;;LAND;12
+WAHLKREIS;57;Uckermark – Barnim I;;LAND;12
+WAHLKREIS;58;Oberhavel – Havelland II;;LAND;12
+WAHLKREIS;59;Märkisch-Oderland – Barnim II;;LAND;12
+WAHLKREIS;60;Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I;;LAND;12
+WAHLKREIS;61;Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II;;LAND;12
+WAHLKREIS;62;Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I;;LAND;12
+WAHLKREIS;63;Frankfurt (Oder) – Oder-Spree;;LAND;12
+WAHLKREIS;64;Cottbus – Spree-Neiße;;LAND;12
+WAHLKREIS;65;Elbe-Elster – Oberspreewald-Lausitz II;;LAND;12
+WAHLKREIS;66;Altmark;;LAND;15
+WAHLKREIS;67;Börde – Jerichower Land;;LAND;15
+WAHLKREIS;68;Harz;;LAND;15
+WAHLKREIS;69;Magdeburg;;LAND;15
+WAHLKREIS;70;Dessau – Wittenberg;;LAND;15
+WAHLKREIS;71;Anhalt;;LAND;15
+WAHLKREIS;72;Halle;;LAND;15
+WAHLKREIS;73;Burgenland – Saalekreis;;LAND;15
+WAHLKREIS;74;Mansfeld;;LAND;15
+WAHLKREIS;75;Berlin-Mitte;;LAND;11
+WAHLKREIS;76;Berlin-Pankow;;LAND;11
+WAHLKREIS;77;Berlin-Reinickendorf;;LAND;11
+WAHLKREIS;78;Berlin-Spandau – Charlottenburg Nord;;LAND;11
+WAHLKREIS;79;Berlin-Steglitz-Zehlendorf;;LAND;11
+WAHLKREIS;80;Berlin-Charlottenburg-Wilmersdorf;;LAND;11
+WAHLKREIS;81;Berlin-Tempelhof-Schöneberg;;LAND;11
+WAHLKREIS;82;Berlin-Neukölln;;LAND;11
+WAHLKREIS;83;Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost;;LAND;11
+WAHLKREIS;84;Berlin-Treptow-Köpenick;;LAND;11
+WAHLKREIS;85;Berlin-Marzahn-Hellersdorf;;LAND;11
+WAHLKREIS;86;Berlin-Lichtenberg;;LAND;11
+WAHLKREIS;87;Aachen I;;LAND;5
+WAHLKREIS;88;Aachen II;;LAND;5
+WAHLKREIS;89;Heinsberg;;LAND;5
+WAHLKREIS;90;Düren;;LAND;5
+WAHLKREIS;91;Rhein-Erft-Kreis I;;LAND;5
+WAHLKREIS;92;Euskirchen – Rhein-Erft-Kreis II;;LAND;5
+WAHLKREIS;93;Köln I;;LAND;5
+WAHLKREIS;94;Köln II;;LAND;5
+WAHLKREIS;95;Köln III;;LAND;5
+WAHLKREIS;96;Bonn;;LAND;5
+WAHLKREIS;97;Rhein-Sieg-Kreis I;;LAND;5
+WAHLKREIS;98;Rhein-Sieg-Kreis II;;LAND;5
+WAHLKREIS;99;Oberbergischer Kreis;;LAND;5
+WAHLKREIS;100;Rheinisch-Bergischer Kreis;;LAND;5
+WAHLKREIS;101;Leverkusen – Köln IV;;LAND;5
+WAHLKREIS;102;Wuppertal I;;LAND;5
+WAHLKREIS;103;Solingen – Remscheid – Wuppertal II;;LAND;5
+WAHLKREIS;104;Mettmann I;;LAND;5
+WAHLKREIS;105;Mettmann II;;LAND;5
+WAHLKREIS;106;Düsseldorf I;;LAND;5
+WAHLKREIS;107;Düsseldorf II;;LAND;5
+WAHLKREIS;108;Neuss I;;LAND;5
+WAHLKREIS;109;Mönchengladbach;;LAND;5
+WAHLKREIS;110;Krefeld I – Neuss II;;LAND;5
+WAHLKREIS;111;Viersen;;LAND;5
+WAHLKREIS;112;Kleve;;LAND;5
+WAHLKREIS;113;Wesel I;;LAND;5
+WAHLKREIS;114;Krefeld II – Wesel II;;LAND;5
+WAHLKREIS;115;Duisburg I;;LAND;5
+WAHLKREIS;116;Duisburg II;;LAND;5
+WAHLKREIS;117;Oberhausen – Wesel III;;LAND;5
+WAHLKREIS;118;Mülheim – Essen I;;LAND;5
+WAHLKREIS;119;Essen II;;LAND;5
+WAHLKREIS;120;Essen III;;LAND;5
+WAHLKREIS;121;Recklinghausen I;;LAND;5
+WAHLKREIS;122;Recklinghausen II;;LAND;5
+WAHLKREIS;123;Gelsenkirchen;;LAND;5
+WAHLKREIS;124;Steinfurt I – Borken I;;LAND;5
+WAHLKREIS;125;Bottrop – Recklinghausen III;;LAND;5
+WAHLKREIS;126;Borken II;;LAND;5
+WAHLKREIS;127;Coesfeld – Steinfurt II;;LAND;5
+WAHLKREIS;128;Steinfurt III;;LAND;5
+WAHLKREIS;129;Münster;;LAND;5
+WAHLKREIS;130;Warendorf;;LAND;5
+WAHLKREIS;131;Gütersloh I;;LAND;5
+WAHLKREIS;132;Bielefeld – Gütersloh II;;LAND;5
+WAHLKREIS;133;Herford – Minden-Lübbecke II;;LAND;5
+WAHLKREIS;134;Minden-Lübbecke I;;LAND;5
+WAHLKREIS;135;Lippe I;;LAND;5
+WAHLKREIS;136;Höxter – Gütersloh III – Lippe II;;LAND;5
+WAHLKREIS;137;Paderborn;;LAND;5
+WAHLKREIS;138;Hagen – Ennepe-Ruhr-Kreis I;;LAND;5
+WAHLKREIS;139;Ennepe-Ruhr-Kreis II;;LAND;5
+WAHLKREIS;140;Bochum I;;LAND;5
+WAHLKREIS;141;Herne – Bochum II;;LAND;5
+WAHLKREIS;142;Dortmund I;;LAND;5
+WAHLKREIS;143;Dortmund II;;LAND;5
+WAHLKREIS;144;Unna I;;LAND;5
+WAHLKREIS;145;Hamm – Unna II;;LAND;5
+WAHLKREIS;146;Soest;;LAND;5
+WAHLKREIS;147;Hochsauerlandkreis;;LAND;5
+WAHLKREIS;148;Siegen-Wittgenstein;;LAND;5
+WAHLKREIS;149;Olpe – Märkischer Kreis I;;LAND;5
+WAHLKREIS;150;Märkischer Kreis II;;LAND;5
+WAHLKREIS;151;Nordsachsen;;LAND;14
+WAHLKREIS;152;Leipzig I;;LAND;14
+WAHLKREIS;153;Leipzig II;;LAND;14
+WAHLKREIS;154;Leipzig-Land;;LAND;14
+WAHLKREIS;155;Meißen;;LAND;14
+WAHLKREIS;156;Bautzen I;;LAND;14
+WAHLKREIS;157;Görlitz;;LAND;14
+WAHLKREIS;158;Sächsische Schweiz-Osterzgebirge;;LAND;14
+WAHLKREIS;159;Dresden I;;LAND;14
+WAHLKREIS;160;Dresden II – Bautzen II;;LAND;14
+WAHLKREIS;161;Mittelsachsen;;LAND;14
+WAHLKREIS;162;Chemnitz;;LAND;14
+WAHLKREIS;163;Chemnitzer Umland – Erzgebirgskreis II;;LAND;14
+WAHLKREIS;164;Erzgebirgskreis I;;LAND;14
+WAHLKREIS;165;Zwickau;;LAND;14
+WAHLKREIS;166;Vogtlandkreis;;LAND;14
+WAHLKREIS;167;Waldeck;;LAND;6
+WAHLKREIS;168;Kassel;;LAND;6
+WAHLKREIS;169;Werra-Meißner – Hersfeld-Rotenburg;;LAND;6
+WAHLKREIS;170;Schwalm-Eder;;LAND;6
+WAHLKREIS;171;Marburg;;LAND;6
+WAHLKREIS;172;Lahn-Dill;;LAND;6
+WAHLKREIS;173;Gießen;;LAND;6
+WAHLKREIS;174;Fulda;;LAND;6
+WAHLKREIS;175;Main-Kinzig – Wetterau II – Schotten;;LAND;6
+WAHLKREIS;176;Hochtaunus;;LAND;6
+WAHLKREIS;177;Wetterau I;;LAND;6
+WAHLKREIS;178;Rheingau-Taunus – Limburg;;LAND;6
+WAHLKREIS;179;Wiesbaden;;LAND;6
+WAHLKREIS;180;Hanau;;LAND;6
+WAHLKREIS;181;Main-Taunus;;LAND;6
+WAHLKREIS;182;Frankfurt am Main I;;LAND;6
+WAHLKREIS;183;Frankfurt am Main II;;LAND;6
+WAHLKREIS;184;Groß-Gerau;;LAND;6
+WAHLKREIS;185;Offenbach;;LAND;6
+WAHLKREIS;186;Darmstadt;;LAND;6
+WAHLKREIS;187;Odenwald;;LAND;6
+WAHLKREIS;188;Bergstraße;;LAND;6
+WAHLKREIS;189;Eichsfeld – Nordhausen – Kyffhäuserkreis;;LAND;16
+WAHLKREIS;190;Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis;;LAND;16
+WAHLKREIS;191;Jena – Sömmerda – Weimarer Land I;;LAND;16
+WAHLKREIS;192;Gotha – Ilm-Kreis;;LAND;16
+WAHLKREIS;193;Erfurt – Weimar – Weimarer Land II;;LAND;16
+WAHLKREIS;194;Gera – Greiz – Altenburger Land;;LAND;16
+WAHLKREIS;195;Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis;;LAND;16
+WAHLKREIS;196;Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg;;LAND;16
+WAHLKREIS;197;Neuwied;;LAND;7
+WAHLKREIS;198;Ahrweiler;;LAND;7
+WAHLKREIS;199;Koblenz;;LAND;7
+WAHLKREIS;200;Mosel/Rhein-Hunsrück;;LAND;7
+WAHLKREIS;201;Kreuznach;;LAND;7
+WAHLKREIS;202;Bitburg;;LAND;7
+WAHLKREIS;203;Trier;;LAND;7
+WAHLKREIS;204;Montabaur;;LAND;7
+WAHLKREIS;205;Mainz;;LAND;7
+WAHLKREIS;206;Worms;;LAND;7
+WAHLKREIS;207;Ludwigshafen/Frankenthal;;LAND;7
+WAHLKREIS;208;Neustadt – Speyer;;LAND;7
+WAHLKREIS;209;Kaiserslautern;;LAND;7
+WAHLKREIS;210;Pirmasens;;LAND;7
+WAHLKREIS;211;Südpfalz;;LAND;7
+WAHLKREIS;212;Altötting;;LAND;9
+WAHLKREIS;213;Erding – Ebersberg;;LAND;9
+WAHLKREIS;214;Freising;;LAND;9
+WAHLKREIS;215;Fürstenfeldbruck;;LAND;9
+WAHLKREIS;216;Ingolstadt;;LAND;9
+WAHLKREIS;217;München-Nord;;LAND;9
+WAHLKREIS;218;München-Ost;;LAND;9
+WAHLKREIS;219;München-Süd;;LAND;9
+WAHLKREIS;220;München-West/Mitte;;LAND;9
+WAHLKREIS;221;München-Land;;LAND;9
+WAHLKREIS;222;Rosenheim;;LAND;9
+WAHLKREIS;223;Bad Tölz-Wolfratshausen – Miesbach;;LAND;9
+WAHLKREIS;224;Starnberg – Landsberg am Lech;;LAND;9
+WAHLKREIS;225;Traunstein;;LAND;9
+WAHLKREIS;226;Weilheim;;LAND;9
+WAHLKREIS;227;Deggendorf;;LAND;9
+WAHLKREIS;228;Landshut;;LAND;9
+WAHLKREIS;229;Passau;;LAND;9
+WAHLKREIS;230;Rottal-Inn;;LAND;9
+WAHLKREIS;231;Straubing;;LAND;9
+WAHLKREIS;232;Amberg;;LAND;9
+WAHLKREIS;233;Regensburg;;LAND;9
+WAHLKREIS;234;Schwandorf;;LAND;9
+WAHLKREIS;235;Weiden;;LAND;9
+WAHLKREIS;236;Bamberg;;LAND;9
+WAHLKREIS;237;Bayreuth;;LAND;9
+WAHLKREIS;238;Coburg;;LAND;9
+WAHLKREIS;239;Hof;;LAND;9
+WAHLKREIS;240;Kulmbach;;LAND;9
+WAHLKREIS;241;Ansbach;;LAND;9
+WAHLKREIS;242;Erlangen;;LAND;9
+WAHLKREIS;243;Fürth;;LAND;9
+WAHLKREIS;244;Nürnberg-Nord;;LAND;9
+WAHLKREIS;245;Nürnberg-Süd;;LAND;9
+WAHLKREIS;246;Roth;;LAND;9
+WAHLKREIS;247;Aschaffenburg;;LAND;9
+WAHLKREIS;248;Bad Kissingen;;LAND;9
+WAHLKREIS;249;Main-Spessart;;LAND;9
+WAHLKREIS;250;Schweinfurt;;LAND;9
+WAHLKREIS;251;Würzburg;;LAND;9
+WAHLKREIS;252;Augsburg-Stadt;;LAND;9
+WAHLKREIS;253;Augsburg-Land;;LAND;9
+WAHLKREIS;254;Donau-Ries;;LAND;9
+WAHLKREIS;255;Neu-Ulm;;LAND;9
+WAHLKREIS;256;Oberallgäu;;LAND;9
+WAHLKREIS;257;Ostallgäu;;LAND;9
+WAHLKREIS;258;Stuttgart I;;LAND;8
+WAHLKREIS;259;Stuttgart II;;LAND;8
+WAHLKREIS;260;Böblingen;;LAND;8
+WAHLKREIS;261;Esslingen;;LAND;8
+WAHLKREIS;262;Nürtingen;;LAND;8
+WAHLKREIS;263;Göppingen;;LAND;8
+WAHLKREIS;264;Waiblingen;;LAND;8
+WAHLKREIS;265;Ludwigsburg;;LAND;8
+WAHLKREIS;266;Neckar-Zaber;;LAND;8
+WAHLKREIS;267;Heilbronn;;LAND;8
+WAHLKREIS;268;Schwäbisch Hall – Hohenlohe;;LAND;8
+WAHLKREIS;269;Backnang – Schwäbisch Gmünd;;LAND;8
+WAHLKREIS;270;Aalen – Heidenheim;;LAND;8
+WAHLKREIS;271;Karlsruhe-Stadt;;LAND;8
+WAHLKREIS;272;Karlsruhe-Land;;LAND;8
+WAHLKREIS;273;Rastatt;;LAND;8
+WAHLKREIS;274;Heidelberg;;LAND;8
+WAHLKREIS;275;Mannheim;;LAND;8
+WAHLKREIS;276;Odenwald – Tauber;;LAND;8
+WAHLKREIS;277;Rhein-Neckar;;LAND;8
+WAHLKREIS;278;Bruchsal – Schwetzingen;;LAND;8
+WAHLKREIS;279;Pforzheim;;LAND;8
+WAHLKREIS;280;Calw;;LAND;8
+WAHLKREIS;281;Freiburg;;LAND;8
+WAHLKREIS;282;Lörrach – Müllheim;;LAND;8
+WAHLKREIS;283;Emmendingen – Lahr;;LAND;8
+WAHLKREIS;284;Offenburg;;LAND;8
+WAHLKREIS;285;Rottweil – Tuttlingen;;LAND;8
+WAHLKREIS;286;Schwarzwald-Baar;;LAND;8
+WAHLKREIS;287;Konstanz;;LAND;8
+WAHLKREIS;288;Waldshut;;LAND;8
+WAHLKREIS;289;Reutlingen;;LAND;8
+WAHLKREIS;290;Tübingen;;LAND;8
+WAHLKREIS;291;Ulm;;LAND;8
+WAHLKREIS;292;Biberach;;LAND;8
+WAHLKREIS;293;Bodensee;;LAND;8
+WAHLKREIS;294;Ravensburg;;LAND;8
+WAHLKREIS;295;Zollernalb – Sigmaringen;;LAND;8
+WAHLKREIS;296;Saarbrücken;;LAND;10
+WAHLKREIS;297;Saarlouis;;LAND;10
+WAHLKREIS;298;St. Wendel;;LAND;10
+WAHLKREIS;299;Homburg;;LAND;10
+SONDERGEBIET;995;Berlin-West;;LAND;11
+SONDERGEBIET;996;Berlin-Ost;;LAND;11
